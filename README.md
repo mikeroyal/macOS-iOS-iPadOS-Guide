@@ -46,7 +46,7 @@
 
 [Back to the Top](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#table-of-contents)
 
-[macOS](https://www.apple.com/macos/big-sur/)
+[macOS](https://www.apple.com/macos/big-sur/) is an advanced desktop operating system for Apple's series of Dekstops and laptops.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/110990003-957ea400-8327-11eb-9d46-52db6d847857.jpg">
@@ -55,7 +55,7 @@ macOS Big Sur
 </p>
 
 
-[iOS](https://www.apple.com/ios/ios-14/)
+[iOS](https://www.apple.com/ios/ios-14/) is an advanced mobile operating system (OS) for Apple's series of iPhone products.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/110990006-97486780-8327-11eb-9a2b-d69382d6e9ef.png">
@@ -64,7 +64,7 @@ iOS 14
 </p>
 
 
-[iPadOS](https://www.apple.com/ipados/ipados-14/)
+[iPadOS](https://www.apple.com/ipados/ipados-14/) is an advanced mobile operating system (OS) for Apple's series of iPad products.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/110990011-98799480-8327-11eb-9520-e6a937d2e2c5.png">
@@ -376,7 +376,7 @@ Developing with SwiftUI in Xcode 12
 
 [If you would like to Donate to the Blender Project](https://fund.blender.org/)
 
-<img src="https://user-images.githubusercontent.com/45159366/110989377-a975d600-8326-11eb-832b-ad76508019cf.png">
+<img src="https://user-images.githubusercontent.com/45159366/110990485-3ec59a00-8328-11eb-8eb1-5502eb2eb74e.png">
 
 
 [Unigine](https://unigine.com) is a cross-platform game engine designed for development teams (C++/C# programmers, 3D artists) working on interactive 3D apps.
@@ -586,6 +586,10 @@ Local virtual devices with high performances.
 [Shotcut](https://www.shotcut.org/) is an open source multi-platform video editor. You can perform various actions such as video editing (including 4K video quality), add effects, create new movies, import most image files formats, export to almost any file format and much more.
 
 [Olive](https://www.olivevideoeditor.org) is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.
+
+[Natron](https://natrongithub.github.io/) is a powerful Digital Compositor that can handle all of your 2D/2.5D needs. Its robust OIIO file formats and OpenFX architecture is what make Natron the most flexible open source compositor for the visual effects community. Its interface and functionally are the same across all platforms such as MacOS, Linux and Windows.
+
+[iZotope](https://www.izotope.com/) is a professional audio software for audio recording, mixing, broadcast, sound design, and mastering which can be used in wide range of Digital Audio Workstation programs.
 
 [OBS (Open Broadcaster Software)](https://obsproject.com/) is free and open source software for video recording and live streaming. Stream to Twitch, YouTube and many other providers or record your own videos with high quality H264 / AAC encoding.
 
