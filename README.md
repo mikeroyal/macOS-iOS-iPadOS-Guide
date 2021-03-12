@@ -49,7 +49,7 @@
 [macOS](https://www.apple.com/macos/big-sur/)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110880027-d11b5e80-8292-11eb-9da0-6a9dc5807d6b.jpg">
+<img src="https://user-images.githubusercontent.com/45159366/110990003-957ea400-8327-11eb-9d46-52db6d847857.jpg">
 <br />
 macOS Big Sur
 </p>
@@ -58,7 +58,7 @@ macOS Big Sur
 [iOS](https://www.apple.com/ios/ios-14/)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110880039-d5477c00-8292-11eb-9765-abac91187f52.png">
+<img src="https://user-images.githubusercontent.com/45159366/110990006-97486780-8327-11eb-9a2b-d69382d6e9ef.png">
 <br />
 iOS 14
 </p>
@@ -67,7 +67,7 @@ iOS 14
 [iPadOS](https://www.apple.com/ipados/ipados-14/)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110880102-ef815a00-8292-11eb-9b86-2e3b1c14c876.png">
+<img src="https://user-images.githubusercontent.com/45159366/110990011-98799480-8327-11eb-9520-e6a937d2e2c5.png">
 <br />
 iPadOS 14
 </p>
@@ -82,7 +82,7 @@ iPadOS 14
 [Developing for the App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110880048-db3d5d00-8292-11eb-9dd8-97175b393571.png">
+<img src="https://user-images.githubusercontent.com/45159366/110990017-99aac180-8327-11eb-8a01-f9d252202835.png">
 <br />
 </p>
 
@@ -376,7 +376,7 @@ Developing with SwiftUI in Xcode 12
 
 [If you would like to Donate to the Blender Project](https://fund.blender.org/)
 
-<img src="https://user-images.githubusercontent.com/45159366/110880413-6fa7bf80-8293-11eb-9b3b-39679e82bdca.png">
+<img src="https://user-images.githubusercontent.com/45159366/110989377-a975d600-8326-11eb-832b-ad76508019cf.png">
 
 
 [Unigine](https://unigine.com) is a cross-platform game engine designed for development teams (C++/C# programmers, 3D artists) working on interactive 3D apps.
