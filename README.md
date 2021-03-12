@@ -14,7 +14,7 @@
 
 2. [Getting Software](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#getting-software)
 
-3. [macOS/iOS/iPadOS Develpment](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#macos-ios-ipados-development)
+3. [macOS/iOS/iPadOS Develpment](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#iosipadosmacos-development)
 
 4. [Apple Silicon](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#apple-silicon)
 
@@ -79,14 +79,13 @@ iPadOS 14
 
 [Apple App Store](https://www.apple.com/app-store/)
 
+[Developing for the App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/110880048-db3d5d00-8292-11eb-9dd8-97175b393571.png">
 <br />
 App Store
 </p>
-
-
-[Developing for the App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
 
 
 # iOS/iPadOS/macOS Development
@@ -241,7 +240,7 @@ Developing with SwiftUI in Xcode 12
 [Nimbus](https://github.com/jverkoey/nimbus) is an iOS framework whose feature set grows only as fast as its documentation.
 
 
-# Apple Silicon & Learning Resources
+# Apple Silicon
 
 [Back to the Top](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#table-of-contents)
 
