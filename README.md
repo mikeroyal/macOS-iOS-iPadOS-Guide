@@ -14,7 +14,7 @@
 
 2. [Getting Software](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#getting-software)
 
-3. [macOS/iOS/iPadOS Develpment](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#iosipadosmacos-development)
+3. [macOS/iOS/iPadOS Develpment](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#macosiosipados-development)
 
 4. [Apple Silicon](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#apple-silicon)
 
@@ -84,11 +84,10 @@ iPadOS 14
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/110880048-db3d5d00-8292-11eb-9dd8-97175b393571.png">
 <br />
-App Store
 </p>
 
 
-# iOS/iPadOS/macOS Development
+# macOS/iOS/iPadOS Development
 
 [Back to the Top](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#table-of-contents)
 
