@@ -46,7 +46,7 @@
 
 [Back to the Top](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#table-of-contents)
 
-[macOS](https://www.apple.com/macos/big-sur/) is an advanced desktop operating system for Apple's series of Dekstops and laptops.
+[macOS](https://www.apple.com/macos/big-sur/) is an advanced desktop operating system (OS) for Apple's series of desktops and laptops.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/110990003-957ea400-8327-11eb-9d46-52db6d847857.jpg">
