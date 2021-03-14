@@ -79,6 +79,8 @@ iPadOS 14
 
 [Apple App Store](https://www.apple.com/app-store/)
 
+[Get the Top Apps of 2020](https://apps.apple.com/us/story/id1535572713)
+
 [Developing for the App Store](https://www.apple.com/app-store/developing-for-the-app-store/)
 
 <p align="center">
@@ -409,6 +411,8 @@ Developing with SwiftUI in Xcode 12
 
 [Vulkan](https://www.khronos.org/vulkan/) is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium. 
 
+[Metal](https://developer.apple.com/metal/) is a low-level GPU programming framework used for rendering 2D and 3D graphics on Apple platforms such as iOS, iPadOS, macOS, watchOS and tvOS.
+
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
 [MoltenGL](https://moltengl.com) is an implementation of the OpenGL ES 2.0 API that runs on Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
@@ -420,6 +424,12 @@ Developing with SwiftUI in Xcode 12
 [Three.js](https://threejs.org) is a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL. 
 
 [Superpowers](http://superpowers-html5.com/) is a downloadable HTML5 app for real-time collaborative projects . You can use it solo like a regular offline game maker, or setup a password and let friends join in on your project through their Web browser. 
+
+[Vivox](https://www.vivox.com/) is a voice & text chat platform that's trusted by the world's biggest gaming brands and titles such as Fortnite, PUBG, League of Legends, and Rainbow Six Siege.
+
+[HGIG](https://www.hgig.org/) is a volunteer group of companies from the game and TV display industries that meet to specify and make available for the public guidelines to improve consumer gaming experiences in HDR.
+
+[GameBlocks](https://www.gameblocks.com/) is a Server Side Anti-Cheat & Middleware software.
 
 ## Augmented Reality (AR) & Virtual Reality (VR)
 
