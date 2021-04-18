@@ -96,6 +96,12 @@ iPadOS 14
 <br />
 </p>
 
+[Homebrew](https://brew.sh) is the missing Package Manager for your macOS, Linux, and Windows 10 (with [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/)) system. Homebrew is an essential tool for any developer/engineer.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/115158810-ee3b0e00-a044-11eb-98b4-3c0dc35ff972.png">
+  <br />
+</p>
 
 # macOS/iOS/iPadOS Development
 
