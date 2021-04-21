@@ -46,7 +46,7 @@
 
 18. [Node.js Development](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#nodejs-development)
 
-19. [C/C++ Development](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#c-c-development)
+19. [C/C++ Development](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#cc-development)
 
 20. [Java Development](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#java-development)
 
