@@ -14,7 +14,7 @@
 
 2. [Getting Software](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#getting-software)
 
-3. [macOS/iOS/iPadOS Develpment](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#macosiosipados-development)
+3. [macOS/iOS/iPadOS Development](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#macosiosipados-development)
 
 4. [Apple Silicon](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#apple-silicon)
 
