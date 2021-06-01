@@ -1651,10 +1651,10 @@ It is extended by a set of privacy-specific requirements, control objectives and
 # React Native Development
 [Back to the Top](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide#table-of-contents)
 
-<h1 align="center">
+<p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/100526624-7ba5c080-317f-11eb-8bf6-6fedf59480e1.png">
   <br />
-</h1>
+</p>
 
 
 ## React Learning Resources
