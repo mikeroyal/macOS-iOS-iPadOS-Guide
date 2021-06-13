@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/110880020-cf519b00-8292-11eb-8557-46f9c17ea465.png">
+ <img src="https://user-images.githubusercontent.com/45159366/121821425-ba97f100-cc4d-11eb-895f-fa4f15a2cb8c.png">
   <br />
   macOS/iOS/iPadOS Guide
 </h1>
@@ -66,32 +66,41 @@
 
 [Back to the Top](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#table-of-contents)
 
-[macOS](https://www.apple.com/macos/big-sur/) is an advanced desktop operating system (OS) for Apple's series of desktops and laptops.
+[macOS](https://www.apple.com/macos/monterey-preview/) is an advanced desktop operating system (OS) for Apple's series of desktops and laptops.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110990003-957ea400-8327-11eb-9d46-52db6d847857.jpg">
+<img src="https://user-images.githubusercontent.com/45159366/121821090-8d4a4380-cc4b-11eb-896a-74e1be0fb3c6.png">
 <br />
-macOS Big Sur
 </p>
 
+**macOS Monterey. Source: [Apple](https://www.apple.com/macos/monterey-preview/)**
 
-[iOS](https://www.apple.com/ios/ios-14/) is an advanced mobile operating system (OS) for Apple's series of iPhone products.
+[iOS](https://www.apple.com/ios/ios-15-preview/) is an advanced mobile operating system (OS) for Apple's series of iPhone products.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110990006-97486780-8327-11eb-9a2b-d69382d6e9ef.png">
+<img src="https://user-images.githubusercontent.com/45159366/121821096-976c4200-cc4b-11eb-9006-641b1c99a9e7.png">
 <br />
-iOS 14
 </p>
 
+**iOS 15. Source: [Apple](https://www.apple.com/ios/ios-15-preview/)**
 
-[iPadOS](https://www.apple.com/ipados/ipados-14/) is an advanced mobile operating system (OS) for Apple's series of iPad products.
+[iPadOS](https://www.apple.com/ipados/ipados-preview/) is an advanced mobile operating system (OS) for Apple's series of iPad products.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/110990011-98799480-8327-11eb-9520-e6a937d2e2c5.png">
+<img src="https://user-images.githubusercontent.com/45159366/121821093-93402480-cc4b-11eb-9a02-42e75c811c39.png">
 <br />
-iPadOS 14
 </p>
 
+**iPadOS 15. Source: [Apple](https://www.apple.com/ipados/ipados-preview/)**
+
+[WatchOS](https://www.apple.com/watchos/watchos-preview/) is an advanced mobile operating system (OS) for Apple's series of Watch products.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/121821100-9b985f80-cc4b-11eb-9c10-1e3aac33feda.png">
+<br />
+</p>
+
+**WatchOS 8. Source: [Apple](https://www.apple.com/watchos/watchos-preview/)**
 
 # Getting Software
 
@@ -133,8 +142,16 @@ iPadOS 14
 Developing with SwiftUI in Xcode 12
 </p>
 
+[Xcode Cloud](https://developer.apple.com/xcode-cloud/) is a continuous integration and delivery service built into Xcode and designed expressly for Apple developers. It accelerates the development and delivery of high-quality apps by bringing together cloud-based tools that help you build apps, run automated tests in parallel, deliver apps to testers, and view and manage user feedback.
 
-## Swift
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/121821101-9cc98c80-cc4b-11eb-9dde-e3efa2ea8154.png">
+<br />
+</p>
+
+**Xcode Cloud. Source: [Apple](https://developer.apple.com/xcode-cloud/)**
+
+## Swift Development
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719675-03949c00-fb39-11ea-8f81-bf4cd544c17f.png">
@@ -181,7 +198,7 @@ Developing with SwiftUI in Xcode 12
 
 [Learning Swift course from Codecademy](https://www.codecademy.com/learn/learn-swift)
 
-### Tools
+### Swift Tools, Libraries, and Frameworks
 
 [Xcode](https://developer.apple.com/xcode/) includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging. Xcode 12 is built as an Universal app that runs 100% natively on Intel-based CPUs and Apple Silicon. It includes a unified macOS SDK that features all the frameworks, compilers, debuggers, and other tools you need to build apps that run natively on Apple Silicon and the Intel x86_64 CPU.
 
@@ -223,10 +240,10 @@ Developing with SwiftUI in Xcode 12
 
 [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa) is reactive extensions to Cocoa frameworks, built on top of ReactiveSwift.
 
-## Objective-C
+## Objective-C Development
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/99155122-12e02380-266a-11eb-9d92-9646d393dbde.png">
+ <img src="https://user-images.githubusercontent.com/45159366/121821278-e6ff3d80-cc4c-11eb-9a57-c7aa13b88b30.png">
 </p>
 
 
@@ -248,7 +265,7 @@ Developing with SwiftUI in Xcode 12
 
 [Objective-C for Swift Developers on Udacity](https://www.udacity.com/course/objective-c-for-swift-developers--ud1009)
 
-### Tools
+### Objective-C Tools, Libraries, and Frameworks
 
 [Xcode](https://developer.apple.com/xcode/) includes everything developers need to create great applications for Mac, iPhone, iPad, Apple TV, and Apple Watch. Xcode provides developers a unified workflow for user interface design, coding, testing, and debugging.
 
