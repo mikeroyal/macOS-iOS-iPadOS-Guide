@@ -178,9 +178,9 @@ Developing with SwiftUI in Xcode 12
 
 [Apple Core Graphics Framework](https://developer.apple.com/documentation/coregraphics)
 
-[Apple Virtualization Frameworks](https://developer.apple.com/documentation/virtualization?language=objc)
+[Virtualization Framework](https://developer.apple.com/documentation/virtualization)
 
-[VZMacOSBootLoader](https://developer.apple.com/documentation/virtualization/vzmacosbootloader?language=objc)
+[Paravirtualized Graphics Framework](https://developer.apple.com/documentation/paravirtualizedgraphics)
 
 [Getting Started with LLDB](https://developer.apple.com/library/archive/documentation/IDEs/Conceptual/gdb_to_lldb_transition_guide/document/lldb-basics.html)
 
