@@ -8,6 +8,11 @@
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/145648808-8e05ead9-16dd-4782-90f4-ce2100ffc535.png">
+  <br />
+</p>
+
 # Table of Contents
 
 1. [Getting Started](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#getting-started)
