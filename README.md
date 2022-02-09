@@ -107,6 +107,45 @@
 
 **WatchOS 8. Source: [Apple](https://www.apple.com/watchos/watchos-preview/)**
 
+[Universal Control](https://www.apple.com/newsroom/2021/10/macos-monterey-is-now-available/) is a software feature for Apple devices such as Macbooks and iPads that makes it possible to use a single keyboard, mouse, and trackpad with your Mac and iPad as long as they're side-by-side. Much like SideCar, there are limited settings for Universal Control. Without a second device connected, you can go to System Preferences -> Displays and click Advanced to pull up Universal Control settings. If a device is already connected, you'll have to go to Displays -> Display Settings -> Advanced.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/153113830-cf6380b4-af80-4252-894a-84a4eada82e6.png">
+<br />
+</p>
+
+Bluetooth, Wi-Fi, and Handoff must be enabled on each device, and they must be within 30 feet. If you prefer to use Universal Control wired, the devices can be connected via USB and you must trust your Mac on your iPad. At the moment, Apple does not mention support for Ethernet but we will test this ourselves during the beta period.
+
+You must also have supported devices. Apple says supported devices include:
+
+ - MacBook Pro (2016 and later)
+ - MacBook (2016 and later)
+ - MacBook Air (2018 and later)
+ - iMac (2017 and later)
+ - iMac (5K Retina 27-inch, Late 2015)
+ - iMac Pro, Mac mini (2018 and later)
+ - Mac Pro (2019)
+ - Any iPad Pro
+ - iPad Air (3rd generation and later)
+ - iPad (6th generation and later)
+ - iPad mini (5th generation and later)
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/153113829-d6ba2c62-4639-4576-90c5-0456b1e2f06e.png">
+<br />
+</p>
+
+## Adding External Storage
+
+[Sabrent XTRM Q](https://www.sabrent.com/rocket-xtrmq/) is a perfect SSD for all your creative pursuits: high-res photos, videos, sound files, etc. It's perfect for saving, creating and editing available in 500GB, 1TB, 2TB, and 4TB drives.
+
+[Shell Thunder](https://m.fledging.net/products/shell-thunder) is a high-performance Intel-Certified Thunderbolt 3 SSD Enclosure engineered for active cooling with smart fan technology. Shell Thunder is designed for 2280 and 2260 m.2 NVME SSDs for macOS and Windows.
+
+[Orico USB4.0 NVMe SSD Enclosure](https://www.orico.cc/us/product/detail/7328.html) is a high-performance SSD Enclosure engineered with up to a 40Gbps transmission rate and 2 TB capacity. It supports Windows, macOS, and Linux devices.
+
+[USB-C to Lightning Cable (2 m)](https://www.apple.com/shop/product/MQGH2AM/A/usb-c-to-lightning-cable-2-m) is cable to connect your iPhone, iPad, or iPod with Lightning connector to your USB-C or Thunderbolt 3 (USB-C) enabled Mac for syncing and charging, or to your USB-C enabled iPad for charging.
+
+
 # Getting Software
 
 [Back to the Top](https://github.com/mikeroyal/macOS-iOS-iPadOS-Guide/blob/main/README.md#table-of-contents)
